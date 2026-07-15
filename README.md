@@ -58,7 +58,7 @@ An end-to-end machine learning pipeline that analyzes historical crime data to u
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/AvinashInduri?theme=dark&font=Karma&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/AvinashInduri?theme=dark&font=Karma&ext=activity" />
 </p>
 
 ---
