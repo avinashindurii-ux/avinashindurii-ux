@@ -14,7 +14,7 @@
 
 - 🎓 Final-year **B.Tech Computer Science** student at Lovely Professional University
 - 🤖 Focused on **Machine Learning / AI Engineering**, with hands-on project work in predictive modeling
-- 🧠 Solved **250+ problems on LeetCode**, with a national ranking in the GFG Hackathon
+- 🧠 Solved **300+ problems on LeetCode**, with a national ranking in the GFG Hackathon
 - 🏗️ Currently building and refining ML projects for real-world impact
 - 🤝 Volunteer contributor through a university Community Development Project
 - 📫 Open to **ML/AI Engineer** roles — let's connect!
@@ -53,20 +53,12 @@ An end-to-end machine learning pipeline that analyzes historical crime data to u
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashindurii-ux&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashindurii-ux&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/AvinashInduri?theme=dark&font=Karma&ext=activity" />
-</p>
-
 ---
 
 ### 🏆 Achievements
 
 - 🥇 GFG Hackathon — National Rank among 8,500+ participants
-- 💻 250+ LeetCode problems solved
+- 💻 300+ LeetCode problems solved
 - ☁️ Certifications: Oracle, Cisco, NPTEL
 
 ---
